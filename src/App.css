@@ -1,0 +1,44 @@
+.my-hero-div {
+  cursor: pointer;
+}
+
+.my-hero-div:hover {
+  background-color: rgb(177, 120, 34);
+}
+
+.box-header-nav {
+  background-color: blanchedalmond;
+  padding: 1rem 1rem;
+  border-radius: 10px;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.search-category-div {
+  width: 98%;
+  display: flex;
+  gap: 0.5rem;
+  margin: 0.5rem 0px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: chocolate;
+  text-transform: capitalize;
+}
+
+li {
+  list-style: none;
+}
+
+.cp {
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+th {
+  font-size: 0.7em !important;
+}
