@@ -25,9 +25,9 @@ const Footer = () => {
         <Container>
           <Row>
             <Col className="col-12">
-              <h3 className="text-white">Follow us :- </h3>
+              <h3 className="text-white">Follow Me :- </h3>
               <p className="text-white">
-                Get in Touch Don't Forget to Follow me on all Social Network
+                Get in Touch with me on different Social sites!
               </p>
               <div className="">
                 <ul className="socialIconsList d-flex align-items-center justify-content-evenly g-1">

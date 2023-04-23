@@ -63,7 +63,7 @@ const Cart = () => {
                   </td>
                   <td className="price">{cart.discountedPrice.toFixed(2)}</td>
                   <td className="qtyBtnSec">
-                    <div className="quatityBtnGroup">
+                    <div className="quatityBtnGroup d-flex align-items-center justify-content-evenly">
                       <span
                         className="qtyBtn"
                         onClick={() =>

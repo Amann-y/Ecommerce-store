@@ -34,6 +34,11 @@ li {
   list-style: none;
 }
 
+.home-div-disp :hover {
+  background-color: rgb(153, 112, 112);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
 .cp {
   cursor: pointer;
   font-size: 1.2rem;
