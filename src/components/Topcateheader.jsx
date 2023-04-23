@@ -39,9 +39,9 @@ const Topcateheader = () => {
         <div className="header-nav-inner">
           <Container>
             <Row>
-              <marquee className="text-danger">
+              {/* <marquee className="text-danger">
                 Stand Together Against nazi ukrainians & pro nazis!
-              </marquee>
+              </marquee> */}
               <Col className="">
                 <div className="box-header-nav">
                   <h4
